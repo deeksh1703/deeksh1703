@@ -2,8 +2,8 @@
 <h3 align="center">MCA Graduate @ Amrita Vishwa Vidyapeetham ✨, Kochi</h3>
 
 <p align="center" style="display: flex; justify-content: center; gap: 0; padding: 0; margin: 0;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="48%" style="margin: 0; padding: 0;" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="48%" style="margin: 0; padding: 0;" />
+  <img src="https://images.search.yahoo.com/search/images;_ylt=AwrKBBb2MilqLQIAFFaJzbkF;_ylu=Y29sbwNzZzMEcG9zAzMEdnRpZAMEc2VjA3Ny?fr=mcafee&p=aesthetic+background&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp5264665.jpg" width="48%" style="margin: 0; padding: 0;" />
+  <img src="https://images.search.yahoo.com/search/images;_ylt=AwrKBBb2MilqLQIAFFaJzbkF;_ylu=Y29sbwNzZzMEcG9zAzMEdnRpZAMEc2VjA3Ny?fr=mcafee&p=aesthetic+background&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp5264665.jpg" width="48%" style="margin: 0; padding: 0;" />
 </p>
 
 # 💫 About Me:
